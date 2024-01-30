@@ -12,3 +12,4 @@
 /Users/timfurs/Desktop/C#/lesson01/Task1/obj/Debug/net8.0/Task1.pdb
 /Users/timfurs/Desktop/C#/lesson01/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/timfurs/Desktop/C#/lesson01/Task1/obj/Debug/net8.0/ref/Task1.dll
+/Users/timfurs/Desktop/C#/lesson01/Task1/obj/Debug/net8.0/Task1.sourcelink.json
